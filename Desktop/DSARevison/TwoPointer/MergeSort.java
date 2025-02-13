@@ -1,6 +1,7 @@
 package TwoPointer;
 
 import java.util.Scanner;
+//using TwoPointer
 
 public class MergeSort {
     public static void main(String[] args) {
